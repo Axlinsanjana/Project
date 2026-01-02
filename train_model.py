@@ -55,5 +55,5 @@ model.compile(
 
 model.fit(train_data, validation_data=test_data, epochs=EPOCHS)
 
-model.save("drowsiness_mobilenetv2.h5")
+model.save("drowsiness_mobilenetv2.tflite")
 print("✅ Model saved")
