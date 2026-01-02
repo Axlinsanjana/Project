@@ -1,0 +1,9 @@
+streamlit>=1.30
+streamlit-webrtc>=0.47
+
+numpy
+opencv-python-headless
+mediapipe
+tflite-runtime
+av
+Pillow
